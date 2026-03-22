@@ -5,3 +5,5 @@
 !.elasticbeanstalk/*.global.yml
 .env
 lead_manager/.env
+*.pem
+*.pem
