@@ -9,6 +9,7 @@ Django==6.0.3
 django-cors-headers==4.9.0
 djangorestframework==3.17.0
 djangorestframework_simplejwt==5.5.1
+git-filter-repo==2.47.0
 gunicorn==25.1.0
 idna==3.11
 jmespath==1.1.0
